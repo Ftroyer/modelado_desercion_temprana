@@ -1,4 +1,4 @@
-ad# repositorio_tp_phyton_uba
+ad# modelado_desercion_temprana
 
 Repositorio de script de proyecto "Modelado de la deserción temprana de los alumnos ingresantes a la educación superior en función de atributos socioeconómicos" elaborado en Agosto-Diciembre 2024 con una muestra de datos del sistema de educación superior de la Ciudad Autónoma de Buenos Aires en el marco del programa de actualización en "Estrategias computacionales para la investigación social" dictado por la Facultad de Ciencias Sociales de la UBA.
 
